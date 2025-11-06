@@ -1,0 +1,5 @@
+{
+  "name": "Analizator hrvatske domoljubne lirike",
+  "description": "Aplikacija za teološku i političku analizu pjesama Marka Perkovića Thompsona koristeći Gemini AI za duboke i nijansirane interpretacije.",
+  "requestFramePermissions": []
+}
